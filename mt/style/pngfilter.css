@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+
+
+
+/* logo */
+.logo {*background-image:url(../images/pngfilter/blank.gif); *background-repeat:repeat; *filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/pngfilter/logo.png", sizingMethod="crop");}
+
+/* pager */
+.pager .picns {*background-image:url(../images/pngfilter/blank.gif); *background-repeat:repeat; *filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/pngfilter/picns.png", sizingMethod="crop");}
+
+.pager .plist a span {*background-image:url(../images/pngfilter/blank.gif); *background-repeat:repeat;}
+.pager .plist .p-1 span {*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/pngfilter/p-1.png", sizingMethod="crop");}
+.pager .plist .p-2 span {*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/pngfilter/p-2.png", sizingMethod="crop");}
+.pager .plist .p-3 span {*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/pngfilter/p-3.png", sizingMethod="crop");}
+
+/* person */
+.preson-1,
+.preson-2,
+.preson-3,
+.preson-4,
+.preson-5,
+.preson-6 {*background-image:url(../images/pngfilter/blank.gif); *background-repeat:repeat;}
+
+.preson-1 {*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/pngfilter/p-1.png", sizingMethod="crop");}
+.preson-2 {*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/pngfilter/p-2.png", sizingMethod="crop");}
+.preson-3 {*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/pngfilter/p-3.png", sizingMethod="crop");}
+.preson-4 {*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/pngfilter/p-4.png", sizingMethod="crop");}
+.preson-5 {*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/pngfilter/p-5.png", sizingMethod="crop");}
+.preson-6 {*filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/pngfilter/p-6.png", sizingMethod="crop");}
+
+/* phone */
+.phone {*background-image:url(../images/pngfilter/blank.gif); *background-repeat:repeat; *filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/pngfilter/phone.png", sizingMethod="crop");}

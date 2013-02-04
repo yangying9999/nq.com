@@ -1,0 +1,7 @@
+/* NOSCRIPT.css */
+
+/* Loads only if browser doesn't support JavaScript */
+
+#imgpreloadoverlay {
+	display: none;
+}

@@ -1,0 +1,234 @@
+@charset "utf-8";
+
+/*
+ * init  初始化
+ * style 样式
+ */
+
+body {margin:0; word-break:break-all; word-wrap:break-word;}
+a, b, cite, div, em, form, fieldset, i, img, label, p, pre, span, strong, var,
+h1, h2, h3, h4, h5, h6,
+ul, ol, li, dl, dt, dd,
+table, thead, tbody, tr, th, td {margin:0; padding:0; border-width:0; list-style:none;}
+a {text-decoration:none;}
+input, textarea, select {outline:none;}
+
+.fl {display:inline; float:left;}
+.fr {display:inline; float:right;}
+.tac {text-align:center!important;}
+.tal {text-align:left!important;}
+.tar {text-align:right!important;}
+
+/*
+ * Properties 属性
+ * style      样式
+ */
+ 
+/* width height */
+.wh-1 {width:828px; height:487px;}
+.wh-2 {width:169px; height:487px;}
+.wh-3 {height:156px;}
+.wh-4 {height:168px;}
+.wh-5 {height:159px;}
+.wh-6 {width:368px; height:115px;}
+.wh-7 {width:401px; height:115px;}
+
+/* margin padding */
+.mp-1 {margin-bottom:2px;}
+.mp-2 {margin-bottom:3px;}
+.mp-3 {margin-right:2px;}
+
+/* position */
+.pos-1 {position:absolute; right:60px; bottom:10px; left:30px;}
+.pos-2 {position:absolute; top:220px; left:40px;}
+.pos-3 {position:absolute; top:120px; left:430px;}
+.pos-4 {position:absolute; top:120px; left:700px;}
+.pos-5 {position:absolute; top:90px; left:120px;}
+.pos-6 {position:absolute; top:140px; left:380px;}
+.pos-7 {position:absolute; top:140px; left:660px;}
+.pos-8 {position:absolute; top:190px; left:660px;}
+.pos-9 {position:absolute; top:120px; left:240px;}
+.pos-10 {position:absolute; top:120px; left:530px;}
+.pos-11 {position:absolute; top:515px; left:706px;}
+.pos-12 {position:absolute; top:90px; left:30px;}
+.pos-13 {position:absolute; top:110px; left:344px;}
+.pos-14 {position:absolute; top:110px; left:578px;}
+.pos-15 {position:absolute; top:110px; left:810px;}
+.pos-16 {position:absolute; top:290px; left:440px;}
+.pos-17 {position:absolute; top:3px; left:189px;}
+.pos-18 {position:absolute; top:3px; left:489px;}
+.pos-19 {position:absolute; top:3px; left:800px;}
+.pos-20 {position:absolute; top:285px; left:51px;}
+.pos-21 {position:absolute; top:279px; left:641px;}
+.pos-22 {position:absolute; top:0; left:255px;}
+.pos-23 {position:absolute; top:121px; left:129px;}
+.pos-24 {position:absolute; top:121px; left:406px;}
+.pos-25 {position:absolute; top:121px; left:683px;}
+.pos-26 {position:absolute; top:528px; left:778px;}
+.pos-27 {position:absolute; top:133px; left:97px;}
+.pos-28 {position:absolute; top:133px; left:319px;}
+.pos-29 {position:absolute; top:133px; left:526px;}
+.pos-30 {position:absolute; top:133px; left:748px;}
+.pos-31 {position:absolute; top:126px; left:78px;}
+.pos-32 {position:absolute; top:126px; left:250px;}
+.pos-33 {position:absolute; top:126px; left:423px;}
+.pos-34 {position:absolute; top:126px; left:596px;}
+.pos-35 {position:absolute; top:126px; left:768px;}
+.pos-36 {position:absolute; top:131px; left:422px;}
+
+/* person */
+.preson-1 {width:247px; height:257px; background:url(../images/person-a.png) no-repeat;}
+.preson-2 {width:251px; height:319px; background:url(../images/person-b.png) no-repeat;}
+.preson-3 {width:234px; height:300px; background:url(../images/person-c.png) no-repeat;}
+.preson-4 {width:190px; height:254px; background:url(../images/person-d.png) no-repeat;}
+.preson-5 {width:268px; height:304px; background:url(../images/person-e.png) no-repeat;}
+.preson-6 {width:245px; height:340px; background:url(../images/person-f.png) no-repeat;}
+
+/* phone */
+.phone {width:151px; height:248px; padding:52px 0 0 12px; background:url(../images/phone.png) no-repeat;}
+
+/*
+ * Elements 元素
+ * style    样式
+ */
+
+/* clear */
+.clear {height:0; clear:both; display:block; overflow:hidden;}
+
+/* disn */
+.disn {display:none!important;}
+
+/* icns */
+.icns {background-repeat:no-repeat; background-position:999px 0; display:-moz-inline-box; display:inline-block; overflow:hidden;}
+.icns-1 {background-position:0 0;}
+.icns-2 {background-position:0 -17px;}
+.icns-3 {background-position:0 -34px;}
+.icns-4 {background-position:0 -51px;}
+.icns-5 {background-position:0 -68px;}
+.icns-6 {background-position:0 -85px;}
+.icns-7 {background-position:0 -102px;}
+.icns-8 {background-position:0 -119px;}
+.icns-9 {background-position:0 -136px;}
+
+/*
+ * content 内容
+ * style   样式
+ */
+
+/* overall */
+html {overflow-x:hidden;}
+body {line-height:22px; color:#666; font-size:12px; font-family:"微软雅黑", "宋体";}
+a {color:#666;}
+a:hover {color:#f60;}
+
+/* menu */
+.menu {height:48px; position:fixed; top:0; right:0; left:0; z-index:99; _position:absolute;}
+.menu_top {background-color:#231814;}
+.menu_bottom {background-color:#fff;}
+.menu_main {width:1000px; height:25px; margin:0 auto;}
+.menu_main a {height:25px; line-height:25px; color:#ccc; margin-left:24px; padding:0 12px; float:left;}
+.menu_main a:hover,
+.menu_main .hover,
+.menu_main .cur {color:#fff;}
+.menu_main .contact {float:right;}
+.menu_sub {width:1000px; height:23px; margin:0 auto; background-color:#fff; cursor:default;}
+.sublist {height:23px;}
+.sublist a {height:23px; line-height:23px; color:#0a6082; padding:0 10px; float:left;}
+.sublist a:hover,
+.sublist .cur {color:#f60;}
+
+/* logo */
+.logo {width:140px; height:42px; margin:82px 0 0 156px; background:url(../images/logo.png) no-repeat; position:fixed; top:0; left:50%; z-index:98; text-indent:-999px; display:block; overflow:hidden; _position:absolute;}
+
+/* content */
+.content {padding-top:48px; clear:both; *zoom:1;}
+.content .section {width:1000px; margin:0 auto; position:relative;}
+.content .section .subsection {position:relative; padding-bottom:50px;}
+.content .sechome {margin-top:-23px;}
+
+/* toolbar */
+.toolbar {padding-top:3px; clear:both; *zoom:1;}
+
+/* share */
+.share {height:25px; padding:0 3px; background-color:#fff;}
+.share .icns {width:17px; height:17px; margin:4px 3px 0 0; background-image:url(../images/icns.gif); float:left;}
+.share .lbl {margin-top:2px; float:left;}
+.share .count,
+.share .count cite {background:url(../images/count.gif) no-repeat; float:left;}
+.share .count {margin-top:4px; padding-right:2px; background-position:100% -17px;}
+.share .count cite {height:17px; line-height:17px; font-style:normal; padding:0 8px 0 10px;}
+
+/* attention */
+.attention {padding:0 3px;}
+.attention .lbl {margin-top:2px; float:left;}
+.attention a {margin-top:2px; float:left;}
+.attention .icns {width:17px; height:17px; margin:2px 3px 0 0; _margin-right:0; background-image:url(../images/icns.gif); float:left;}
+
+/* pager */
+.inpager {clear:both; *zoom:1;}
+.pager .picns,
+.pager .plist {margin:0 3px; vertical-align:middle; display:-moz-inline-box; display:inline-block; overflow:hidden;}
+
+.pager .picns {width:28px; height:36px; background:url(../images/pager.png) no-repeat;}
+
+.pager .plist {line-height:normal;}
+.pager .plist a {display:-moz-inline-box; display:inline-block; overflow:hidden;}
+.pager .plist a span {width:50px; height:27px; background:url(../images/pager.png) no-repeat -28px 0; cursor:pointer; display:block; _display:inline-block; overflow:hidden;}
+.pager .plist .p-2 span {background-position:-28px -27px;}
+.pager .plist .p-3 span {background-position:-28px -54px;}
+
+/*
+ * change(Javasctipt) 改变
+ * style			  样式
+ */
+
+/* columns */
+.content .columns {margin-right:50px; display:inline; float:left;}
+
+/* lateral */
+.latprev,
+.latnext {width:0; background-repeat:repeat; cursor:pointer; display:block; position:fixed; top:48px; bottom:0; z-index:97;}
+.latprev {left:0;}
+.latnext {right:0;}
+.latprev_hover,
+.latnext_hover {background-color:#000; filter:alpha(opacity=50); opacity:0.5;}
+
+/* listbox */
+.listbox {clear:both; *zoom:1;}
+.listbox .row {width:100%; display:inline; float:left; clear:both;}
+
+/* 立即下载 */
+.lijxz {width:227px; height:115px; background:url(../images/bg-a.jpg) no-repeat;}
+.lijxz a {width:77px; height:76px; margin:36px 0 0 3px; float:left; text-indent:-999px; overflow:hidden;}
+.lijxz .android {margin-left:36px;}
+.lijxz .symbian {width:76px;}
+
+/* 第1屏 */
+.sub-1-a {height:580px; background:url(../images/1-a.jpg) no-repeat; position:relative;}
+.sub-1-b {height:580px; background:url(../images/1-b.gif) no-repeat; position:relative;}
+.sub-1-c {height:580px; background:url(../images/1-c.gif) no-repeat; position:relative;}
+.sub-1-d {height:580px; background:url(../images/1-d.gif) no-repeat; position:relative;}
+.sub-1-d .download {width:177px; height:51px; text-indent:-999px; display:block; overflow:hidden;}
+
+/* 第2屏 */
+.sub-2-a {height:580px; background:url(../images/2-a.jpg) no-repeat; position:relative;}
+.sub-2-b {height:580px; background:url(../images/2-b.jpg) no-repeat; position:relative;}
+.sub-2-c {height:580px; background:url(../images/2-c.jpg) no-repeat; position:relative;}
+.sub-2-d {height:580px; background:url(../images/2-d.jpg) no-repeat; position:relative;}
+
+/* 第3屏 */
+.sub-3-a {height:580px; background:url(../images/3-a.jpg) no-repeat; position:relative;}
+.sub-3-b {height:580px; background:url(../images/3-b.gif) no-repeat; position:relative;}
+.sub-3-c {height:593px; background:url(../images/3-c.gif) no-repeat; position:relative;}
+.sub-3-d {height:580px; background:url(../images/3-d.gif) no-repeat; position:relative;}
+.sub-3-d .download {width:177px; height:51px; text-indent:-999px; display:block; overflow:hidden;}
+
+/* 第4屏 */
+.sub-4-a {height:580px; background:url(../images/4-a.jpg) no-repeat; position:relative;}
+.sub-4-b {height:580px; background:url(../images/4-b.jpg) no-repeat; position:relative;}
+.sub-4-c {height:580px; background:url(../images/4-c.jpg) no-repeat; position:relative;}
+.sub-4-d {height:580px; background:url(../images/4-d.jpg) no-repeat; position:relative;}
+.sub-4-d .download {width:177px; height:51px; text-indent:-999px; display:block; overflow:hidden;}
+
+/* 第5屏 */
+.sub-5-a {height:580px; background:url(../images/5-a.jpg) no-repeat; position:relative;}

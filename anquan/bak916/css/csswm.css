@@ -1,0 +1,196 @@
+﻿body {
+	font-size: 12px;
+	line-height: 24px;
+	Font-family:"微软雅黑";
+	color: #646464;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url(../images/top2_bj.jpg);
+	background-repeat: repeat-x;
+	background-position: center top;
+	background-color: #ededed;
+}
+.top_bj{
+	height: 80px;
+	background-image: url(../images/top_bj4.jpg);
+	background-repeat: repeat-x;
+	background-position: top;
+}
+.border1{
+	border: 1px solid #CCC;
+}
+.border2{
+	border-bottom-width: 1px;
+	border-bottom-style: dashed;
+	border-bottom-color: #CCC;
+	font-size: 14px;
+}
+.lan{
+	color: #2173af;
+}
+
+
+/*连接全部样式*/
+a:link {
+	font-size: 12px;
+	color: #646464;
+	text-decoration: none;
+}
+a:visited {
+	font-size: 12px;
+	color: #646464;
+	text-decoration: none;
+}
+a:hover {
+	font-size: 12px;
+	color: #F00;
+	text-decoration: none;
+}
+a:active {
+	font-size: 12px;
+	color: #646464;
+	text-decoration: none;
+}
+
+
+/*导航*/
+.user2{
+	font-size: 14px;
+	color: #646464;
+	text-decoration: none;
+	line-height: 30px;
+}
+a.user1:link {
+	font-size: 14px;
+	color: #646464;
+	text-decoration: none;
+	line-height: 30px;
+}
+a.user1:visited {
+	font-size: 14px;
+	color: #646464;
+	text-decoration: none;
+	line-height: 30px;
+}
+a.user1:hover {
+	font-size: 14px;
+	color: #F00;
+	text-decoration: none;
+	line-height: 30px;
+}
+a.user1:active {
+	font-size: 14px;
+	color: #646464;
+	text-decoration: none;
+	line-height: 30px;
+}
+
+
+/* 版底 */
+.bai1{
+	font-size: 12px;
+	color: #FFF;
+}
+a.bai2:link {
+	font-size: 12px;
+	color: #FFF;
+	text-decoration: none;
+}
+a.bai2:visited {
+	font-size: 12px;
+	color: #FFF;
+	text-decoration: none;
+}
+a.bai2:hover {
+	font-size: 12px;
+	color: #FFF;
+	text-decoration: underline;
+}
+a.bai2:active {
+	font-size: 12px;
+	color: #FFF;
+	text-decoration: none;
+}
+
+
+/*区内容列样式 */
+.A_tit{
+	font-size: 24px;
+	font-weight: bold;
+	line-height: 36px;
+	color: #646464;
+}
+.A_nr{
+	font-size: 14px;
+	line-height: 24px;
+	color: #646464;
+}
+.B_tit{
+	font-size: 24px;
+	font-weight: bold;
+	line-height: 36px;
+	color: #FFF;
+	background-image: url(../images/B_titbj.png);
+	background-repeat: no-repeat;
+	background-position: bottom;
+}
+.B_Postbutton:link {
+	font-size: 20px;
+	color: #FFF;
+	text-decoration: none;
+	font-weight: bold;
+	background-image: url(../images/B_Postbutton1.jpg);
+	background-repeat: no-repeat;
+	float: left;
+	height: 45px;
+	width: 142px;
+	line-height: 45px;
+	padding-left: 18px;
+}
+.B_Postbutton:visited {
+	font-size: 20px;
+	color: #FFF;
+	text-decoration: none;
+	font-weight: bold;
+	background-image: url(../images/B_Postbutton1.jpg);
+	background-repeat: no-repeat;
+	float: left;
+	height: 45px;
+	width: 142px;
+	line-height: 45px;
+	padding-left: 18px;
+}
+.B_Postbutton:hover {
+	font-size: 20px;
+	color: #FFF;
+	text-decoration: none;
+	font-weight: bold;
+	background-image: url(../images/B_Postbutton2.jpg);
+	background-repeat: no-repeat;
+	float: left;
+	height: 45px;
+	width: 142px;
+	line-height: 45px;
+	padding-left: 18px;
+}
+.B_Postbutton:active {
+	font-size: 20px;
+	color: #FFF;
+	text-decoration: none;
+	font-weight: bold;
+	background-image: url(../images/B_Postbutton1.jpg);
+	background-repeat: no-repeat;
+	float: left;
+	height: 45px;
+	width: 142px;
+	line-height: 45px;
+	padding-left: 18px;
+}
+.B_Commenttit{
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 30px;
+	color: #646464;
+}

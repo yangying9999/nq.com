@@ -1,0 +1,247 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>网秦手机病毒检测 - 提供多平台的手机应用程序免费检测</title>
+<meta name="keywords" content="病毒检测,在线杀毒,在线检测,网秦杀毒,网秦手机杀毒,网秦手机杀毒软件,网秦杀毒软件">
+<meta name="description" content="网秦手机病毒检测 - 提供跨平台的快速病毒检测服务，有了网秦病毒检测您可以放心的从任何渠道下载应用。">
+<link rel="shortcut icon" href="/favicon.ico" />
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<link href="css/public.css" rel="stylesheet" type="text/css" />
+<link href="css/check_mobile.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="js/tabcontent.js"></script>
+<script type="text/javascript" src="js/favorite.js"></script>
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/lazy_load.js"></script>
+<!--script type="text/javascript" src="js/jquery.DOMWindow.js"></script>-->
+<script type='text/javascript'>
+	CopyURL=function(){
+	try{
+		clipboardData.setData('text',location.href); 
+		alert("你已经复制了本页面网址");
+		}catch(e){
+		}
+	}
+</script>
+
+
+<script language="javascript">
+    function checkForm() {
+        var f = document.getElementById('uploadForm');
+        //f.myFile.value 上传文件文件名
+        var friend_array = f.myFile.value.split(".");
+        if (friend_array[friend_array.length-1].toLowerCase() == "sis" || friend_array[friend_array.length-1].toLowerCase() == "sisx" || friend_array[friend_array.length-1].toLowerCase() == "jar" || friend_array[friend_array.length-1].toLowerCase() == "apk" || friend_array[friend_array.length-1].toLowerCase() == "cab") {
+        //if (myFile.value){
+			$('#loading').append('<img src="img/loading.gif" style="background-repeat: no-repeat; overflow: auto; padding: 10px; border:0; position: absolute; z-index: 10001; left: 630px; top: 186px;" />');
+			//document.getElementById("loading").innerHTML="<img src='img/loading.gif' style='background-repeat: no-repeat; overflow: auto; padding: 10px; border:0; position: absolute; z-index: 10001; left: 630px; top: 186px;' />";
+            $("#loading").addClass('window').show();
+            f.submit();           
+        } else {
+            alert('您好，请选择一个sis/sisx/jar/apk/cab文件！');
+        }
+    }
+</script>
+
+<script language="javascript">
+    function checkUrlForm() {
+        var f = document.getElementById('urlForm');
+        //f.myFile.value 上传文件文件名
+        var friend_array = f.url.value;
+        if (friend_array!="") {
+        //if (myFile.value){
+			$('#loading').append('<img src="img/loading.gif" style="background-repeat: no-repeat; overflow: auto; padding: 10px; border:0; position: absolute; z-index: 10001; left: 630px; top: 186px;" />');
+			//document.getElementById("loading").innerHTML="<img src='img/loading.gif' style='background-repeat: no-repeat; overflow: auto; padding: 10px; border:0; position: absolute; z-index: 10001; left: 630px; top: 186px;'>";
+            $("#loading").addClass('window').show();
+			f.submit();
+                        
+        } else {
+            alert('您好，请输入一个正确的url地址！');
+        }
+    }
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32429341-1']);
+  _gaq.push(['_setDomainName', 'nq.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+
+<body onload="MM_preloadImages('images/B_img2.jpg')">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td class="top_bj"><table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="320" height="80" rowspan="2"><img src="images/logo.png" width="146" height="60" /></td>
+        <td width="680" height="40" valign="bottom"><table border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="24"><img src="images/top_ico1.png" width="16" height="16" /></td>
+            <td width="80" height="30"><a href="http://www.netqin.com/products/" title="产品下载" target="_blank">产品下载</a></td>
+            <td width="24"><img src="images/top_ico2.png" width="16" height="16" /></td>
+            <td width="80"><a href="https://i.netqin.com/" title="网秦空间" target="_blank">网秦空间</a></td>
+            <td width="24"><img src="images/top_ico3.png" width="16" height="16" /></td>
+            <td width="80"><a href="http://pay.netqin.com/" title="支付中心" target="_blank">支付中心</a></td>
+            <td width="24"><img src="images/top_ico4.png" width="16" height="16" /></td>
+            <td width="50"><a href="http://t.sina.com.cn/netqin" title="官方微博" target="_blank">官方微博</a></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="40" valign="top"><table width="0" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="90"><a href="http://cn.nq.com/" class="user1" title="网秦首页">网秦首页</a></td>
+            <td width="90"><a href="http://anquan.nq.com/" class="user1" title="网秦安全">网秦安全</a></td>
+            <td width="90"><a href="http://cn.nq.com/liebiao" class="user1" title="新闻报道">新闻报道</a></td>
+            <td width="10"><img src="images/user2.png" width="7" height="11" /></td>
+            <td width="90"><a href="http://scan.nq.com/" class="user1" title="在线检测">在线检测</a></td>
+            <td width="90"><a href="http://cn.nq.com/anquanbobao" class="user1" title="安全播报">安全播报</a></td>
+            <td width="90"><a href="http://cn.nq.com/guanyu" class="user1" title="关于网秦">关于网秦</a></td>
+            <td width="57"><a href="http://mt.nq.com/" class="user1" title="NiceDay" target="_blank">NiceDay</a></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="1000" height="430" border="0" align="center" cellpadding="0" cellspacing="0" background="images/banner.jpg">
+  <tr>
+    <td colspan="2" height="275">&nbsp;</td>
+  </tr>
+  <tr>
+    <td class="miao" height="25">目前已经检测了<strong class="sao">$count</strong>个软件包，检测出<strong class="sao">$viruscount</strong>个病毒</td>
+    <td align="right"></td>
+  </tr>
+  <tr>
+    <td colspan="2" height="130">&nbsp;</td>
+  </tr>
+</table>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="30"></td>
+  </tr>
+</table>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="770" height="300" valign="top">
+    
+<div id="ch_mb_main">
+  <div class="ch_menu">
+    <ul id="producttabs">
+      <li class="c1"><a href="#" rel="file_upload_scan">检测本地软件包</a></li>
+      <li class="c2"><a href="#" rel="url_scan">检测网络软件包</a></li>
+    </ul>
+  </div>
+  <div id="file_upload_scan" class="check_mobilie_upload">
+    <div class="upload_m">
+      <form id="uploadForm"  name="uploadForm" action="open/rpc?key=20002000&style=rpchtml&category=webscan&lang=cn" method="post" enctype="multipart/form-data">
+        <div class="upload_title">上传软件包<span>
+          <input id="readexcelfile" type="file" name="myFile"  class="innn"/>
+        </span></div>
+        <span class="check"><a href="javascript: checkForm()" class="defaultDOMWindow" title="立即检测">立即检测</a></span>
+        <p>网秦在线检测平台目前提供Symbian、Android、KJava、Windows Mobile等平台的手机软件包（格式为sisx、sis、apk、jar、cab）的免费检测服务。<br/>
+        </p>
+      </form>
+      <strong>注意：在线检测平台为免费服务，所提供的检查结果仅供参考，如果遇到检测没有结果或者对结果有异议，请到<a href="http://bbs.netqin.com/forums/list.shtml" target="_blank">论坛</a>进行反馈，谢谢。我们会在第一时间进行研究和反馈。</strong></div>
+  </div>
+  <!-- line -->
+  <div id="url_scan" class="check_mobilie_upload">
+    <div class="upload_m2">
+      <div class="t">请输入软件包的网络地址（URL）：</div>
+      <form id="urlForm" name="urlForm" action="open/rpc" method="get" >
+        <div class="c">
+          <input name="url" type="text" class="tfield_5" />
+          <input name="key" value="20002000" type="hidden" />
+          <input name="style" value="rpchtml" type="hidden" />
+          <input name="lang" value="cn" type="hidden" />
+          <input name="input" type="button" onclick="javascript: checkUrlForm()" class="bt_4"/ title="提交地址">
+        </div>
+      </form>
+      <div class="x">例如：http://www.abc.com/upLoad/Products/abc.sis</div>
+    </div>
+  </div>
+  <script type="text/javascript">
+		var myflowers=new ddtabcontent("producttabs")
+		myflowers.setpersist(false)
+		myflowers.setselectedClassTarget('0')
+		myflowers.init()
+   </script>
+</div>    </td>
+    <td width="230" valign="top"><table width="230" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="50"><img src="images/B_titico1.jpg" width="48" height="37" alt="本周活跃病毒列表"/></td>
+        <td width="180" class="B_tit">本周活跃病毒列表</td>
+      </tr>
+    </table>
+      <table width="230" border="0" cellpadding="0" cellspacing="0" class="border1">
+        <tr>
+          <td height="10" bgcolor="#FFFFFF"></td>
+        </tr>
+        <tr>
+          <td bgcolor="#FFFFFF"><table width="200" border="0" align="center" cellpadding="0" cellspacing="0" class="B_nr">
+            <tr>
+              <td width="25">&nbsp;</td>
+              <td width="175">
+<a href="http://virus.netqin.com/$platform1/$virus1/" target="_blank">$virus1</a><br/>
+        <a href="http://virus.netqin.com/$platform2/$virus2/" target="_blank">$virus2</a><br/>
+        <a href="http://virus.netqin.com/$platform3/$virus3/" target="_blank">$virus3</a><br/>
+        <a href="http://virus.netqin.com/$platform4/$virus4/" target="_blank">$virus4</a><br/>
+        <a href="http://virus.netqin.com/$platform5/$virus5/" target="_blank">$virus5</a><br/>
+        <a href="http://virus.netqin.com/$platform6/$virus6/" target="_blank">$virus6</a><br/>      
+        <a href="http://virus.netqin.com/$platform5/$virus5/" target="_blank">$virus7</a><br/>
+        <a href="http://virus.netqin.com/$platform6/$virus6/" target="_blank">$virus8</a>     
+               </td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="10" bgcolor="#FFFFFF"></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="30"></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="1" bgcolor="#3c3c3c"></td>
+  </tr>
+  <tr>
+    <td height="1" bgcolor="#7c7c7c"></td>
+  </tr>
+  <tr>
+    <td height="40" bgcolor="#3c3c3c"><table width="940" border="0" align="center" cellpadding="0" cellspacing="0" class="bai1">
+      <tr>
+        <td height="5"></td>
+      </tr>
+      <tr>
+        <td align="center">北京网秦天下科技有限公司版权所有 &copy; 2005-2012 京ICP备05086162号 京公网安备110101000230号</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<div id="loading"></div>
+</body>
+</html>

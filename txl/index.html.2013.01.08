@@ -1,0 +1,283 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>网秦通讯录 - 领先的智能拨号算法,学习型骚扰屏蔽让您的手机更好用</title>
+<meta name="keywords" content="网秦通讯录,智能拨号,拦截骚扰,通讯录备份,保护隐私,通讯录软件,手机通讯录管理,反骚扰">
+<meta name="description" content="网秦通讯录采用最先进的符合算法，特别是对于联系人众多的用户，提供最便捷的拨号方式，同时还集成了反骚扰、通讯录备份、隐私保护等功能。">
+<link href="css/css.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="images/favicon.ico" />
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+
+
+<!-- the following line is only required to run the demos -->
+<script type="text/javascript" src="jsimg/assets/demo.js"></script>
+<!-- this section is the only one needed to run Shadowbox -->
+<link rel="stylesheet" type="text/css" href="jsimg/build/shadowbox.css">
+<script type="text/javascript" src="jsimg/build/shadowbox.js"></script>
+<script type="text/javascript">
+Shadowbox.init({
+    // a darker overlay looks better on this particular site
+    overlayOpacity: 0.8
+    // setupDemos is defined in jsimg/assets/demo.js
+}, setupDemos);
+</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-32429341-1']);
+  _gaq.push(['_setDomainName', 'nq.com']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script> 
+</head>
+
+<body onload="MM_preloadImages('images/B_img2.jpg')">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td class="top_bj"><table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="320" height="80" rowspan="2"><img src="images/logo.png" width="146" height="60" /></td>
+        <td width="680" height="40" valign="bottom"><table border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="24"><img src="images/top_ico1.png" width="16" height="16" /></td>
+            <td width="80" height="30"><a href="http://www.netqin.com/products/" title="产品下载" target="_blank">产品下载</a></td>
+            <td width="24"><img src="images/top_ico2.png" width="16" height="16" /></td>
+            <td width="80"><a href="https://i.netqin.com/" title="网秦空间" target="_blank">网秦空间</a></td>
+            <td width="24"><img src="images/top_ico3.png" width="16" height="16" /></td>
+            <td width="80"><a href="http://pay.netqin.com/" title="支付中心" target="_blank">支付中心</a></td>
+            <td width="24"><img src="images/top_ico4.png" width="16" height="16" /></td>
+            <td width="50"><a href="http://t.sina.com.cn/netqin" title="官方微博" target="_blank">官方微博</a></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="40" valign="top"><table width="0" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tr class="menu"> 
+            <td width="90"><a href="http://cn.nq.com/" class="user1" title="网秦首页">网秦首页</a></td>
+            <td width="90"><a href="http://zhishu.nq.com/" class="user1" title="安全指数" target="_blank">安全指数</a></td>
+            <td width="90"><a href="http://anquan.nq.com/" class="user1" title="网秦安全">网秦安全</a></td>
+            <td width="90"><a href="http://cn.nq.com/liebiao" class="user1" title="新闻报道">新闻报道</a></td>
+            <td width="90"><a href="http://scan.nq.com/" class="user1" title="在线检测">在线检测</a></td>
+            <td width="90"><a href="http://cn.nq.com/anquanbobao" class="user1" title="安全播报">安全播报</a></td>
+            <td width="90"><a href="http://cn.nq.com/guanyu" class="user1" title="关于网秦">关于网秦</a></td>
+            <td width="57"><a href="http://mt.nq.com/" class="user1" title="NiceDay" target="_blank">NiceDay</a></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="images/banner.jpg" alt="网秦通讯录" width="1000" height="425" border="0" usemap="#Map"/></td>
+  </tr>
+</table>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="30"></td>
+  </tr>
+</table>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="350" valign="top"><table width="310" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="images/met_left_img0.jpg" width="310" height="134" alt="特色功能"/></td>
+      </tr>
+      <tr>
+        <td height="16" bgcolor="#FFFFFF"></td>
+      </tr>
+    </table>
+      <table width="310" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="99" bgcolor="#FFFFFF"><table width="290" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="80"><a rel="shadowbox" href="jsimg/gallery/mustang/met_left_img1.png"><img src="images/met_left_img1.jpg" width="63" height="79" border="0" alt="快速查找"/></a></td>
+              <td width="210"><span class="A_tit">快速查找</span><br />
+                T9智能搜索算法，让您瞬间就能找到想要拨打的联系人号码</td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="1" bgcolor="#dddddd"></td>
+        </tr>
+        <tr>
+          <td height="99" bgcolor="#FFFFFF"><table width="290" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="80"><a rel="shadowbox" href="jsimg/gallery/mustang/met_left_img2.png"><img src="images/met_left_img2.jpg" width="63" height="79" border="0" alt="永不丢失"/></a></td>
+              <td width="210"><span class="A_tit">永不丢失</span><br />
+                安全备份手机通讯录到云端，您再也不会丢失重要的联系人电话号码
+</td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="1" bgcolor="#dddddd"></td>
+        </tr>
+        <tr>
+          <td height="99" bgcolor="#FFFFFF"><table width="290" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="80"><a rel="shadowbox" href="jsimg/gallery/mustang/met_left_img3.png"><img src="images/met_left_img3.jpg" width="63" height="79" border="0" alt="没有骚扰"/></a></td>
+              <td width="210"><span class="A_tit">没有骚扰</span><br />
+                先进的智能短信过滤和电话拦截技术，无需设置黑名单即可自动拦截</td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="1" bgcolor="#dddddd"></td>
+        </tr>
+        <tr>
+          <td height="99" bgcolor="#FFFFFF"><table width="290" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="80"><a rel="shadowbox" href="jsimg/gallery/mustang/met_left_img4.png"><img src="images/met_left_img4.jpg" width="63" height="79" border="0" alt="保护隐私"/></a></td>
+              <td width="210"><span class="A_tit">保护隐私</span><br />
+                加密敏感短信和通话记录，把手机上的秘密藏起来</td>
+            </tr>
+          </table></td>
+        </tr>
+        <tr>
+          <td height="1" bgcolor="#dddddd"></td>
+        </tr>
+        <tr>
+          <td height="99" bgcolor="#FFFFFF"><table width="290" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="80"><a rel="shadowbox" href="jsimg/gallery/mustang/met_left_img5.png"><img src="images/met_left_img5.jpg" width="63" height="79" border="0" alt="合二为一"/></a></td>
+              <td width="210"><span class="A_tit">合二为一</span><br />
+                独具特色的通讯记录会话界面，把电话和短信合二为一，所有信息一目了然</td>
+            </tr>
+          </table></td>
+        </tr>
+    </table></td>
+    <td width="650" valign="top"><table width="650" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="310" valign="top" bgcolor="#FFFFFF"><table width="310" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="10" align="right"><img src="images/jiao.jpg" width="12" height="12" /></td>
+          </tr>
+        </table>
+          <table width="290" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td width="130"><img src="images/B01_img1.jpg" width="120" height="94" alt="智能拨号"/></td>
+              <td width="160" class="B_tit">T9搜索<br />
+                加上智能排序<br />
+                查号准确快速</td>
+              </tr>
+          </table>
+          <table width="290" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td height="10"></td>
+            </tr>
+          </table>
+          <table width="290" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td align="left" valign="top"><img src="images/B01_icn1.jpg" width="12" height="24" /></td>
+              <td>智能拨号采用 T9 搜索方式，输入数字即可按姓名拼音查找联系人（支持按首字母缩写和按全拼搜索）。</td>
+            </tr>
+            <tr>
+              <td align="left" valign="top"><img src="images/B01_icn2.jpg" width="12" height="24" /></td>
+              <td>搜索结果按通讯频度排序，确保您最经常联系的<br />
+                号码排在最前面。</td>
+            </tr>
+            <tr>
+              <td width="20" align="left" valign="top"><img src="images/B01_icn3.jpg" width="12" height="24" /></td>
+              <td width="270">Android 手机必备，替换手机上原有拨号功能的最佳选择。</td>
+            </tr>
+          </table>
+          <table width="290" border="0" align="center" cellpadding="0" cellspacing="0">
+            <tr>
+              <td height="10"></td>
+            </tr>
+          </table>
+          <table width="310" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td width="190" height="30" bgcolor="#2173af">&nbsp;</td>
+              <td width="120" bgcolor="#2173af"><a href="#" class="bai2">智能拨号详细介绍 &gt;</a></td>
+            </tr>
+          </table></td>
+        <td width="30" height="324">&nbsp;</td>
+        <td width="310" valign="top" bgcolor="#FFFFFF"><table width="310" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><img src="images/B02_img1.jpg" width="310" height="145" alt="云备份"/></td>
+          </tr>
+          <tr>
+            <td><img src="images/B02_img2.jpg" width="310" height="34" /></td>
+          </tr>
+          <tr>
+            <td><img src="images/B02_img3.jpg" width="310" height="145" alt="骚扰拦截"/></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table>
+      <table width="650" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td height="30"></td>
+        </tr>
+        <tr>
+          <td height="295" valign="top" bgcolor="#FFFFFF"><table width="650" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td height="10" align="right"><img src="images/jiao.jpg" width="12" height="12" /></td>
+            </tr>
+          </table>
+            <table width="630" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td width="160" height="178" valign="top"><a rel="shadowbox" href="jsimg/gallery/mustang/B03_img1.png"><img src="images/B03_img1.jpg" width="150" height="168" border="0" alt="私密空间 把手机上的秘密藏起来"/></a></td>
+                <td width="470"><span class="B03_tit">私密空间</span> <span class="B03_tit2">把手机上的秘密藏起来</span><br />
+                  <span class="lan">加密隐私短信和电话记录，把手机上的秘密藏起?包含商业秘密的短信、和爱人的甜言<br />
+                  蜜语，都可以放到私密空间中加密保护起来。</span><br />
+                  可以开启自动的私密模式，开启后<br />
+                  把一个号码添加为私密联系人，你和这个号码的所有短信和通话记录将不会出现在手机<br />
+                中，而是自动转移到私密空间，只有输入正确密码才能查看。</td>
+              </tr>
+          </table>
+            <table width="630" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td>可以从主界面隐藏私密空间入口，或者更改私密空间在主界面显示的名称无论是否隐藏私密空间，都可以通过拨打 *私<br />
+                  密密码 的方式，快速进入私密空间（例如，如果私密密码是3527，那么拨打*3527就可以进入私密空间了）。<br />
+                  甚至还可以创建多个新私密空间，这样，你就不担心别人会问你密码了（你可以创建几个假的私密空间，把假空间的密<br />
+                码告诉他们）。</td>
+              </tr>
+          </table></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="1000" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="30"></td>
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td height="1" bgcolor="#2d73ab"></td>
+  </tr>
+  <tr>
+    <td height="1" bgcolor="#4c8fbe"></td>
+  </tr>
+  <tr>
+    <td height="40" bgcolor="#2d73ab"><table width="940" border="0" align="center" cellpadding="0" cellspacing="0" class="bai1">
+      <tr>
+        <td height="5"></td>
+      </tr>
+      <tr>
+        <td align="center">北京网秦天下科技有限公司版权所有 &copy; 2005-2012 京ICP备05086162号 京公网安备110101000230号</td>
+<div style="display:none"><script src="http://s84.cnzz.com/stat.php?id=4207324&web_id=4207324&show=pic" language="JavaScript"></script></div>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+<map name="Map" id="Map">
+<area shape="rect" coords="336,326,495,369" href="http://www.netqin.com/download.do?businessID=123&Method=byIDNew&prinID=127&c=" />
+</map></body>
+</html>

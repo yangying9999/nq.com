@@ -1,0 +1,136 @@
+* {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+header, nav {
+	display: block;
+	position: relative;	
+}	
+
+img, a, *:focus {
+	outline: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+.c {
+	text-align: center;
+}
+
+.l {
+	text-align: left;
+}
+
+.r {
+	text-align: right;
+}
+
+.j {
+	text-align: justify;
+}
+
+.b {
+	font-weight: bold;
+}
+
+.i {
+	font-style: italic;
+}
+
+span.hl {
+	font-weight: bold;
+	color: #444;
+}
+
+.fl {
+	float: left;
+}
+
+.fr {
+	float: right;
+}
+
+.active, .active:hover, .active *, .active *:hover {
+	cursor: default;
+}
+
+h1, h2, h3, h4, h5 {
+	font-weight: normal;
+}
+
+.clear, form br {
+	display: block;
+	clear: both;
+	float: none;
+	line-height: 0px;
+	font-size: 0px;
+}
+
+.notext {
+	line-height: 0px;
+	font-size: 0px;
+}
+
+.noheight {
+	height: 0px;
+	line-height: 0px;
+	font-size: 0px;
+	overflow: hidden;
+}
+
+.hidden {
+	display: none;
+}
+
+.forcew {
+	display: inline-block;
+}
+
+body {
+
+}
+
+#dim {
+	min-width: 1025px;
+	overflow: hidden;
+	position: relative;
+}
+
+/* LayerSlider Layers and Sublayers unique styles */
+#layerslider {
+	width: 1025px;
+	height: 510px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+
+#leaf1 {
+	left: 110px;
+	top: -110px;
+}
+
+#leaf2 {
+	left: -20px;
+	top: 230px;
+}
+
+#leaf3 {
+	left: 500px;
+	top: -200px;
+}
+
+#clouds {
+	left: -100px;
+	top: -100px;
+}
+
+#earth {
+	left: 850px;
+	top: -67px;
+}
