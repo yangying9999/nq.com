@@ -313,3 +313,53 @@ a.user1:active {
 
 .posbg-1 {*background:url(../images/pngfilter/blank.gif) repeat; *filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/pngfilter/posbg-1.png", sizingMethod="image");}
 .posbg-2 {*background:url(../images/pngfilter/blank.gif) repeat; *filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src="/images/pngfilter/posbg-2.png", sizingMethod="image");}
+
+.festival .mask {
+	background: #000;
+	opacity: 0.6;
+	filter:alpha(opacity=60);    /* ie5-7  */
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 1000;
+}
+.festival .banner {
+	background: url("../images/festival/bg_banner.png") no-repeat;
+	height: 550px;
+	margin: 0 0 0 -300px;
+	width: 600px;
+	position: fixed;
+	top: 40px;
+	left: 50%;
+	z-index: 1001;
+}
+.festival .side1, .festival .side2 {
+	background: url("../images/festival/bg_side1.png") no-repeat;
+	height: 250px;
+	width: 169px;
+	position: fixed;
+	top: 75px;
+	left: 0;
+	z-index: 1001;
+}
+.festival .side2 {
+	background: url("../images/festival/bg_side2.png") no-repeat;
+	left: auto;
+	right: 0;
+}
+.festival .close {
+	background: url("../images/festival/bg_x.png") no-repeat;
+	height: 18px;
+	width: 18px;
+	position: absolute;
+	bottom: -17px;
+	right: 7px;
+}
+.festival .side1 .close {
+	left: 7px;
+}
+.hide {
+	display: none;
+}

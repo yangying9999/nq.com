@@ -36,12 +36,30 @@
 			jQuery(".lang_bt").removeClass("lang-open"); 
 			jQuery("#lang_sup").hide(); 
 		} 
-		});	 
+		});
+
+  // 显示对联
+  jQuery('#FesWrapper .side1').fadeIn(500);
+  jQuery('#FesWrapper .side2').fadeIn(500);
+  // 春节对联的关闭按钮
+  jQuery('#FesWrapper .close').click(function(e) {
+    e.preventDefault();
+    jQuery('#FesWrapper').fadeOut();
+  });
+  // 20秒后自动消失
+  setTimeout(function() {
+    //jQuery('#FesWrapper').fadeOut();
+  }, 20000);
+
   }); 
-</script> 
+</script>
 </head>
 <body>
 <div class="wrap">
+  <div id="FesWrapper" class="festival">
+    <div class="side1 hide"><a class="close" href="" title="关闭"></a></div>
+    <div class="side2 hide"><a class="close" href="" title="关闭"></a></div>
+  </div>
 	<div class="sprites_x head">
     	<div class="inhead">
 	<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
